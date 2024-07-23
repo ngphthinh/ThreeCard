@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BaiCao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BaiCao_jar</output-path>
+    <root id="archive" name="BaiCao.jar">
+      <element id="module-output" name="BaiCao" />
+    </root>
+  </artifact>
+</component>
